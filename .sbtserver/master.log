@@ -7663,3 +7663,105 @@ All initially invalidated sources: Set()
 Total time: 5 s, completed 25/08/2015 21:26:29
 > server-post-command-cleanup
 > server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@7c968bcd, check cycles: false
+Total time: 7 s, completed 25/08/2015 21:35:45
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/C:/Users/Joede/crud-mysql/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@5ca73f47, check cycles: false
+Total time: 7 s, completed 25/08/2015 21:36:33
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@2ce5dac8, check cycles: false
+Total time: 0 s, completed 25/08/2015 21:36:54
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/C:/Users/Joede/crud-mysql/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6a2132fb, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(C:\Users\Joede\crud-mysql\conf\application.conf,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\application.conf)
+	(C:\Users\Joede\crud-mysql\conf\evolutions,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions)
+	(C:\Users\Joede\crud-mysql\conf\routes,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\routes)
+	(C:\Users\Joede\crud-mysql\conf\evolutions\default,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions\default)
+	(C:\Users\Joede\crud-mysql\conf\evolutions\default\1.sql,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions\default\1.sql)
+Total time: 15 s, completed 25/08/2015 21:37:22
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/C:/Users/Joede/crud-mysql/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@63f2208d, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(C:\Users\Joede\crud-mysql\conf\application.conf,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\application.conf)
+	(C:\Users\Joede\crud-mysql\conf\evolutions,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions)
+	(C:\Users\Joede\crud-mysql\conf\routes,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\routes)
+	(C:\Users\Joede\crud-mysql\conf\evolutions\default,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions\default)
+	(C:\Users\Joede\crud-mysql\conf\evolutions\default\1.sql,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions\default\1.sql)
+Total time: 12 s, completed 25/08/2015 21:38:03
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/C:/Users/Joede/crud-mysql/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@10890652, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(C:\Users\Joede\crud-mysql\conf\application.conf,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\application.conf)
+	(C:\Users\Joede\crud-mysql\conf\evolutions,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions)
+	(C:\Users\Joede\crud-mysql\conf\routes,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\routes)
+	(C:\Users\Joede\crud-mysql\conf\evolutions\default,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions\default)
+	(C:\Users\Joede\crud-mysql\conf\evolutions\default\1.sql,C:\Users\Joede\crud-mysql\target\scala-2.11\classes\evolutions\default\1.sql)
+Total time: 6 s, completed 25/08/2015 21:38:22
+> server-post-command-cleanup
+> server-handle-next-server-request
