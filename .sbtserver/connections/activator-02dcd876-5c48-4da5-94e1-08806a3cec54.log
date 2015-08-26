@@ -1,0 +1,9 @@
+New log file opened at Tue Aug 25 21:21:07 BRT 2015 by 7344@Joede-PC
+Sending msg to client activator-02dcd876-5c48-4da5-94e1-08806a3cec54: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: C:\Users\Joede\crud-mysql\.sbtserver\connections\master.log))
+Sending msg to client activator-02dcd876-5c48-4da5-94e1-08806a3cec54: DetachedLogEvent(LogMessage(debug,sbt client logs are in: C:\Users\Joede\crud-mysql\.sbtserver\connections\activator-02dcd876-5c48-4da5-94e1-08806a3cec54.log))
+Sending msg to client activator-02dcd876-5c48-4da5-94e1-08806a3cec54: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: C:\Users\Joede\crud-mysql\.sbtserver\master.log))
+Reading next message from client.
+Client activator-02dcd876-5c48-4da5-94e1-08806a3cec54 EOF, shutting down.
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client activator-02dcd876-5c48-4da5-94e1-08806a3cec54
+Client activator-02dcd876-5c48-4da5-94e1-08806a3cec54 thread exiting.
